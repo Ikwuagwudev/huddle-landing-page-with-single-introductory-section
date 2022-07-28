@@ -41,14 +41,15 @@ c.  The footer
 I was able to deploy my project using GitHub Pages. Check out my live project below at github.io.
 You can also deploy projects using the other links below:
 
-- [GitHub Pages](https://pages.github.com/)
+- [GitHub Pages](https://ikwuagwudev.github.io/huddle-landing-page-with-single-introductory-section/)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://github.com/Ikwuagwudev/huddle-landing-page-with-single-introductory-section)
+
+- Live Site URL: [My live site URL here](https://ikwuagwudev.github.io/huddle-landing-page-with-single-introductory-section/)
 
 ### What I learned
 
