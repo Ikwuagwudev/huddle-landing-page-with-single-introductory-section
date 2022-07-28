@@ -39,7 +39,9 @@ c.  The footer
 ## Deploying my project
 
 I was able to deploy my project using GitHub Pages. Check out my live project below at github.io.
-You can also deploy projects using the other links below:
+You can also deploy projects using the other links like Vercel and Netlify.
+
+KINDLY CLICK ON THE [Github Pages] TO ACCESS MY LIVE LINK
 
 - [GitHub Pages](https://ikwuagwudev.github.io/huddle-landing-page-with-single-introductory-section/)
 - [Vercel](https://vercel.com/)
